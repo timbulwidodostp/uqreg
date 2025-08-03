@@ -1,4 +1,16 @@
-D 'DEA': Data envelopment analysis
+D 'uqreg': Unconditional quantile regression estimator Use uqreg With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F _ghvar.ado
+F _grifvar.ado
+F hvar.sthlp
+F oaxaca_rif.ado
+F oaxaca_rif.sthlp
+F rifhdreg.ado
+F rifhdreg.sthlp
+F rifsureg.ado
+F rifsureg.sthlp
+F rifsureg2.ado
+F rifsureg2.sthlp
+F rifvar.sthlp
+F uqreg.ado
+F uqreg.sthlp
